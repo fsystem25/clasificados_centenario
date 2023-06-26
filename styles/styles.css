@@ -3,7 +3,7 @@
     display: none; 
 }
 
-body {
+html {
     /* The image used */
     background-image: url(../images/fondo1_copia.jpg );
   
@@ -16,6 +16,13 @@ body {
     background-size: cover;
 }
 
+body{
+    width: 100%;
+    margin-bottom: min(10vh, 33%);
+    margin-top: 10vh;
+    background-color: transparent;
+}
+
 
 h1 {
     color: #fff;
@@ -24,8 +31,8 @@ h1 {
 }
 
 .card{
-    width: 10rem;
-    height: 10rem;
+    width: min(max(10rem, 30%), 48%);
+    height: min(max(10rem, 30%), 48%);
     border-color: transparent;
     background-color: transparent;
     color:#fff;
@@ -43,11 +50,10 @@ h1 {
 }
 
 #CATEGORIAS{
-    background:rgba(1,17,58,0.4);
+    background:rgba(1,17,58,0.46);
     margin-left:20vw;
     margin-right: 20vw;
-    margin-bottom: 10vh;
-    
+    margin-bottom: 10vh;   
 }
 
 
