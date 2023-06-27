@@ -7,3 +7,5 @@ Los usuarios podrán navegar a través de diversas categorías para encontrar ex
 Nuestro objetivo principal es fomentar la economía local y promover el intercambio de bienes y servicios dentro de la comunidad de Centenario. Apreciamos y valoramos los comentarios de nuestros usuarios, ya que nos ayudan a mejorar continuamente la experiencia en el sitio web.
 
 ¡Explora "Clasificados Centenario" hoy mismo y descubre una manera sencilla y conveniente de encontrar lo que necesitas en tu ciudad!
+
+https://fsystem25.github.io/clasificados_centenario/
